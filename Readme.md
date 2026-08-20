@@ -62,7 +62,7 @@ Grad-CAM heatmaps were generated to visualize which regions of the retina the mo
 
 ## Setup
 
-Install dependencies: pip install -r requirements.txt
+Install dependencies: pip install -r libraries.txt
 
 Download the dataset from Kaggle and place it in a gaussian_filtered_images/ folder in the project root (or update DATA_DIR in the script to point to your local path).
 
